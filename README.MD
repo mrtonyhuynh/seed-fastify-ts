@@ -1,0 +1,1 @@
+https://github.com/microsoft/TypeScript-Node-Starter/blob/master/package.json
